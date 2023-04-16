@@ -1,0 +1,32 @@
+
+body{
+
+    background-color:powderblue;
+}
+hr{
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width:5px;
+    height: 0px;
+    width:5%;
+}
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+h3:hover{
+    color:gold;
+}
+/*Ids*/
+#line {
+    color:blanchedalmond;
+}
+/*Class selectors*/
+.headings{
+    color:blueviolet;
+}
